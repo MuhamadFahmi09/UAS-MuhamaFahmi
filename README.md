@@ -7,6 +7,7 @@ Ujian Akhir Semester Mobile Programming
 
 Aplikasi keripik dapat menjadi sarana yang bermanfaat bagi masyarakat, terutama bagi mereka yang menyukai keripik. Aplikasi ini dapat membantu pengguna untuk memesan keripik dengan mudah.
 
+![Burger](https://github.com/MuhamadFahmi09/UAS-MuhamaFahmi/assets/55302414/b13f4d8d-159a-4e5f-8b55-3fe50d07dd7a)
 
 
 Berikut adalah langkah-langkah untuk clone aplikasi dari GitHub:
